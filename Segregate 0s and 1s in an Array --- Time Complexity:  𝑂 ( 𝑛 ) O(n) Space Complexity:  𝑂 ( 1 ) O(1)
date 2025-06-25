@@ -1,0 +1,9 @@
+arr = [0, 1, 1, 0, 0, 1, 0, 1]
+l = 0
+
+for r in range(len(arr)):
+    if arr[r] == 0:
+        arr[l], arr[r] = arr[r], arr[l]
+        l += 1
+
+print(*arr)
