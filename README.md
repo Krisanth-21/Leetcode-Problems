@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0344-reverse-string](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
