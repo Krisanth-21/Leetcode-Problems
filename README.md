@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0812-rotate-string) |
+## Array
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
