@@ -3,3 +3,5 @@ class Solution:
         n = len(nums)
         nums.sort()
         return nums[n//2]
+
+      
