@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -43,9 +44,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
