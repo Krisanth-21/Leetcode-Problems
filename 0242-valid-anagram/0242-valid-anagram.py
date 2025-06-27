@@ -7,3 +7,4 @@ class Solution:
             if s.count(i) != t.count(i):
                 return False
         return True
+        
