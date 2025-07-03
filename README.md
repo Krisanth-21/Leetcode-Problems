@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -82,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
