@@ -1,0 +1,27 @@
+def letter(word:str)-> str:
+    vowels = []
+    consonants = []
+    
+    for char in word:
+        if char.lower() in 'aeiou':
+            vowels.append(char)
+        else:
+            consonants.append(char)
+    
+    result = []
+    i = 0 
+    
+    while i<len(vowels) or i<len(consonants):
+        if i < len(consonants):
+            result.append(consonants[i])
+        if i < len(vowels):
+            result.append(vowels[i])
+        i = i + 1
+    
+    return ''.join(result)
+    
+    
+
+user = input()
+output = letter(user)
+print(output)
