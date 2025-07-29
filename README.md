@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0155-min-stack) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
