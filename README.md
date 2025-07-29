@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
