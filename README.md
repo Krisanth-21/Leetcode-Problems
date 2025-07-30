@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
