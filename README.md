@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
 | ------- |
