@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0137-single-number-ii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Krisanth-21/Leetcode-Problems/tree/master/0169-majority-element) |
